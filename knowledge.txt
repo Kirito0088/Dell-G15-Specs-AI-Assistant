@@ -1,0 +1,88 @@
+Core Components
+Processor (CPU):
+
+Model: 13th Generation Intel® Core™ i5-13450HX
+
+Architecture: 10 Cores (6 Performance-cores + 4 Efficient-cores), 16 Threads
+
+Max Turbo Frequency: Up to 4.60 GHz
+
+Cache: 20 MB
+
+Graphics Card (GPU):
+
+Model: NVIDIA® GeForce RTX™ 3050
+
+VRAM: 6 GB GDDR6
+
+Memory (RAM):
+
+Size: 16 GB
+
+Configuration: 2 x 8 GB, dual-channel
+
+Type: DDR5
+
+Speed: 4800MHz
+
+Storage:
+
+Size: 512 GB
+
+Type: PCIe NVMe M.2 Solid State Drive (SSD)
+
+Display
+Size: 15.6 inches
+
+Resolution: FHD (1920 x 1080)
+
+Refresh Rate: 120Hz
+
+Panel Type: WVA (Wide Viewing Angle), Anti-Glare
+
+Brightness: 250 nits
+
+Color Gamut: 45% NTSC
+
+Features: NVIDIA G-SYNC + DDS (Dynamic Display Switching)
+
+Input & Multimedia
+Keyboard: US English 4-Zone RGB Backlit Keyboard with Numeric Keypad and G-Key
+
+Webcam: Integrated Widescreen HD (720p) Webcam with single-array digital microphone
+
+Audio: 2 tuned speakers with Dolby Audio
+
+Ports & Connectivity
+Ports:
+
+1x Headset (headphone and microphone combo) port
+
+1x RJ45 Ethernet port
+
+3x SuperSpeed USB 3.2 Gen 1 Type-A ports
+
+1x HDMI 2.1 output port
+
+1x USB-C 3.2 Gen 2 port with DisplayPort support
+
+Networking: Intel® Wi-Fi 6 AX201, 2x2
+
+Bluetooth: Yes
+
+Physical & Power
+Color: Dark Shadow Gray with Black thermal shelf
+
+Dimensions:
+
+Height: 26.90 mm (1.06 in.)
+
+Width: 357.26 mm (14.07 in.)
+
+Depth: 274.52 mm (10.81 in.)
+
+Weight: Starting at 2.81 kg (6.19 lbs)
+
+Battery: 3-Cell Battery, 56 Wh (Integrated)
+
+Power Adapter: 240W AC Adapter
